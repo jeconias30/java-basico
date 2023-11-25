@@ -1,3 +1,4 @@
+package estruturafor;
 public class For {
     public static void main(String[] args) {
         // For (para)

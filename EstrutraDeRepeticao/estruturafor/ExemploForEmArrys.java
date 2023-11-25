@@ -1,3 +1,4 @@
+package estruturafor;
 public class ExemploForEmArrys {
     public static void main(String[] args) {
         String alunos[] = {"Jeconias", "Joatan", "Jefta", "Jeremias"};
